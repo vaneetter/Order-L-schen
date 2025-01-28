@@ -1,1 +1,4 @@
-# Order-L-schen
+Ordner Löschen Im C Drive 
+
+Zu Beginn des Projekts habe ich die Aufgabenstellung sorgfältig analysiert und die Möglichkeiten abgewogen. Die bereitgestellte Themenübersicht in Form einer Exceltabelle bot eine Vielzahl interessanter Optionen, aus denen ich erste Ideen entwickelte. Um eine fundierte Entscheidung zu treffen, recherchierte ich umfassend im Internet. Anfangs spielte ich mit dem Gedanken, mehrere kleine Projekte umzusetzen, da mir die Auswahl schwerfiel.
+Letztlich entschied ich mich für das Thema „Arbeiten mit Dateien und Ordnern“. Mein Ziel war es, ein Skript zu entwickeln, das das gesamte Laufwerk C: nach leeren Ordnern durchsucht und diese automatisch löscht. Trotz anfänglicher Unsicherheiten und theoretischer Herausforderungen erhielt ich wertvolle Unterstützung in meinem Ausbildungsbetrieb. Mit hilfreichen Tipps und praktischer Begleitung konnte ich die Herausforderungen erfolgreich bewältigen und mein Projekt erfolgreich umsetzen.
